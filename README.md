@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrsxjjvdrcSvtbvrd
-- 👀 I’m interested in java
-- 🌱 I’m currently learning jre
+- 👀 I’m interested in kotlin
+- 🌱 I’m currently learning kotlin/native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
